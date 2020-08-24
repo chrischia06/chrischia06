@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a 3rd year BSc Financial Mathematics Student at the London School of Economics. 📫 Feel free to contact me at C [dot] Chia3 [at] lse [dot] ac [dot] uk
+I am a 3rd year BSc Financial Mathematics Student at the London School of Economics. 
+
+📫 Feel free to contact me at C [dot] Chia3 [at] lse [dot] ac [dot] uk
 
 <!--
 **chrischia06/chrischia06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
