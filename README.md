@@ -4,6 +4,7 @@ I am a 3rd year BSc Financial Mathematics Student at the London School of Econom
 
 📫 Feel free to contact me at C [dot] Chia3 [at] lse [dot] ac [dot] uk
 
+Best software engineering work: Collabor.ai, a "blockchain platform for collaborative machine learning" in Python/Go https://github.com/collaborai/
 
 Best "Data Science" work: Limit Order Book modelling for a online competition [https://github.com/chrischia06/XTXForecastingChallenge](https://github.com/chrischia06/XTXForecastingChallenge)
 
