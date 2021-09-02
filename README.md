@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I am currently a 3rd year BSc Financial Mathematics Student at the London School of Economics. 
-
-My interests are currently in
-
-+ Mathematical Finance, and applications of machine / deep learning to problems within
-+ Econometrics, Causal Inference, and Bayesian Statistics
+ My interests and skills are in applying ML/DL, time series, and econometrics to data-driven problems (in finance and other areas). Github: https://github.com/chrischia06/ . I am also able to work on any ad-hoc general software /data engineering and web dev tasks. Contact me at $USERNAME[at]gmail[dot]com for any opportunities.
 
 
 **Some projects...**
