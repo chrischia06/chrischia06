@@ -6,10 +6,8 @@ I am currently a Masters student at Oxford studying Mathematical Finance. My int
 **Some projects...**
 
 + Exploring "Deep Hedging" for options: [https://github.com/chrischia06/Mean-Variance-Hedging](https://github.com/chrischia06/Mean-Variance-Hedging)
-
-+ Best "Data Science" work: Limit Order Book modelling for a online competition [https://github.com/chrischia06/XTXForecastingChallenge](https://github.com/chrischia06/XTXForecastingChallenge)
-
-
++ Exploring Neural Networks for derivatives pricing [https://github.com/chrischia06/neural-network-derivative-pricing](https://github.com/chrischia06/neural-network-derivative-pricing)
++ Limit Order Book modelling for a online competition [https://github.com/chrischia06/XTXForecastingChallenge](https://github.com/chrischia06/XTXForecastingChallenge)
 + 🐱 Cutest Project: Quantum Kitties, a little game to showcase quantum mechanics using the IBM QISKit API [github.com/topher-lo/quantum-kitties](github.com/topher-lo/quantum-kitties) | https://quantum-kitties.herokuapp.com/
 
 <!--
