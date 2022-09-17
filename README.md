@@ -1,10 +1,3 @@
-### Hi there 👋
-
-I am currently a Masters student at Oxford studying Mathematical Finance. My interests and skills are in applying ML/DL, time series, and econometrics to data-driven problems (in finance and other areas). I am also able to work on any general ad-hoc software /data engineering and web dev projects. Contact me at $USERNAME[at]gmail[dot]com for any opportunities.
-
-
-**Some projects...**
-
 + Exploring "Deep Hedging" for options: [https://github.com/chrischia06/Mean-Variance-Hedging](https://github.com/chrischia06/Mean-Variance-Hedging)
 + Exploring Neural Networks for derivatives pricing [https://github.com/chrischia06/neural-network-derivative-pricing](https://github.com/chrischia06/neural-network-derivative-pricing)
 + Limit Order Book modelling for a online competition [https://github.com/chrischia06/XTXForecastingChallenge](https://github.com/chrischia06/XTXForecastingChallenge)
